@@ -1,13 +1,4 @@
-# CMPE272-Project Presentation (O My Natural)
-# Group-11
-
-## Project Members:
-| Project Members | GitHub-Profile-Link | 
-| ----- | ----- |
-| Rajashekar Reddy Kommula | https://github.com/Rajashekarredde |
-| Sai Subhash Chandra Reddy | https://github.com/subhashreddy |
-| Sujan Rao Chikkela |https://github.com/sujanchikkela |
-| Varun Reddy Seelam | https://github.com/varunreddy1268 |
+# CMPE272-Project  (O My Natural)
 
 # Project title: O MyNatural
 
