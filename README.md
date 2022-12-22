@@ -1,7 +1,5 @@
-# O My Natural
+## O My Natural 🌱 🌾
 <img src = "https://www.nasa.gov/sites/default/files/thumbnails/image/crops_imageb_v2_opt1.gif"/>
-
-# Project title: O MyNatural
 
 ## PROBLEM STATEMENT:
 -          The mission of O MyNatural is to safeguard the soil from losing its fertility owing to poor farming techniques. 
