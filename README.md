@@ -1,4 +1,5 @@
-# CMPE272-Project  (O My Natural)
+# O My Natural
+<img src = "https://www.nasa.gov/sites/default/files/thumbnails/image/crops_imageb_v2_opt1.gif"/>
 
 # Project title: O MyNatural
 
